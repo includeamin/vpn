@@ -26,7 +26,7 @@ var openvpnmanager = require('node-openvpn');
         console.log(output)
     });
  
-    openvpnmanager.getLog(console.log) //get all console logs up to this point 
+   // openvpnmanager.getLog(console.log) //get all console logs up to this point 
  
  
  
