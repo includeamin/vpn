@@ -8,8 +8,8 @@ var openvpnmanager = require('node-openvpn');
     };
     
     var auth = {
-        user: 'vpnUserName',
-        pass: 'vpnPassword',
+        user: 'amin',
+        pass: 'amin',
     };
  
     var openvpn = openvpnmanager.connect(opts)
